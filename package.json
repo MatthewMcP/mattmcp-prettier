@@ -1,14 +1,14 @@
 {
-  "name": "mattmcp-prettier",
-  "version": "0.0.1",
-  "description": "Shared prettier settings from Matthew McParland.",
-  "main": "index.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "prettier"
-  ],
-  "author": "matthew.mcparland@gmail.com",
-  "license": "ISC"
+	"name": "mattmcp-prettier",
+	"version": "0.0.2",
+	"description": "Shared prettier settings from Matthew McParland.",
+	"main": "index.json",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"prettier"
+	],
+	"author": "matthew.mcparland@gmail.com",
+	"license": "ISC"
 }

@@ -3,6 +3,7 @@
 	"editor.formatOnSave": true,
 	"endOfLine": "crlf",
 	"jsxBracketSameLine": true,
+	"jsxSingleQuote": true,
 	"printWidth": 120,
 	"trailingComma": "es5",
 	"tabWidth": 4,
